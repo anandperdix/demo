@@ -1,14 +1,116 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sections": [
+    {
+      "id": "title",
+      "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
+      "title": "UX Designer",
+      "company": "OKCredit"
+    },
+    {
+      "id": "details",
+      "title": null,
+      "data": [
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Job Location",
+            "value": "Hyderabad"
+          }
+        },
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Company Size",
+            "value": "Hyderabad"
+          }
+        },
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Experience Required",
+            "value": "4-8 years"
+          }
+        },
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Skills Required",
+            "value": "Hyderabad"
+          }
+        },
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Maximum Compensation",
+            "value": "Hyderabad"
+          }
+        },
+        {
+          "type": "key_value",
+          "value": {
+            "key": "Working Days",
+            "value": 5
+          }
+        },
+      ]
+    },
+    {
+      "id": "about",
+      "title": "About Ola",
+      "data": [
+        {
+          "type": "chip_array",
+          "value": ["Consumer Internet", "Technology", "Travel & Tourism"]
+        },
+        {
+          "type": "content",
+          "value": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient"
+        },
+        {
+          "type": "website_url",
+          "value": "https://www.olacabs.com/"
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "title": "Office Location",
+      "data": [
+        {
+          "type": "location_image",
+          "value": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg"
+        }
+      ]
+    },
+    {
+      "id": "responsibilities",
+      "title": "Roles & Responsibilites",
+      "data": [
+        {
+          "type": "content",
+          "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
+        }
+      ]
+    },
+    {
+      "id": "ideal_candidate",
+      "title": "Ideal Candidate",
+      "data": [
+        {
+          "type": "content",
+          "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
+        }
+      ]
+    },
+    {
+      "id": "benefits",
+      "title": "Perks, Benefits & Work Culture",
+      "data": [
+        {
+          "type": "content",
+          "value": "We believe that innovation is a part of our DNA and every employee embodies Ola's larger goals and values. We encourage all our employees to practice the utmost creative freedom in everything that they do, allowing for ground-breaking ideas, innovation and steady advancement."
+        }
+      ]
+    }
+  ]
 }
