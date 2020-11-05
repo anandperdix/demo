@@ -39,41 +39,23 @@
     },
     "about": {
       "title": "About Ola",
-      "data": [
-        {
-           "type": "chip_array",
-           "value": [
-              "Consumer Internet",
-              "Technology",
-              "Travel & Tourism"
-           ]
-        },
-        {
-           "type": "content",
-           "value": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient"
-        },
-        {
-           "type": "website_url",
-           "value": "https://www.olacabs.com/"
-        }
-     ]
+      "data": {
+        "chip_array": [
+           "Consumer Internet",
+           "Technology",
+           "Travel & Tourism"
+        ],
+        "content": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient",
+        "website_url": "https://www.olacabs.com/"
+      }
     },
     "location": {
       "title": "Office Location",
-      "data": [
-        {
-           "type": "location_image",
-           "value": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg"
-        },
-        {
-          "type": "location",
-          "value": "Murugesh Pallya, Bengaluru "
-        },
-        {
-          "type": "google_maps",
-          "value": "https://www.google.co.in/maps"
-        }
-     ]
+      "data": {
+        "location_image": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg",
+        "location": "Murugesh Pallya, Bengaluru ",
+        "google_maps": "https://www.google.co.in/maps"
+      }
     },
     "responsibilities": {
       "title": "Roles & Responsibilites",
