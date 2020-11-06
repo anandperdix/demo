@@ -93,16 +93,12 @@
           "value": "Office Location"
         },
         {
-           "type": "location_image",
-           "value": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg"
-        },
-        {
-          "type": "location",
-          "value": "Murugesh Pallya, Bengaluru "
-        },
-        {
-          "type": "google_maps",
-          "value": "https://www.google.co.in/maps"
+          "type": "company",
+          "value": {
+            "location_image": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg",
+            "location": "Murugesh Pallya, Bengaluru ",
+            "google_maps": "https://www.google.co.in/maps"
+          }
         }
      ]
     },
