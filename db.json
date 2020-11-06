@@ -4,16 +4,12 @@
       "id": "header",
       "data": [
         {
-          "type": "image",
-          "value": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156"
-        },
-        {
-          "type": "title",
-          "value": "UX Designer"
-        },
-        {
-          "type": "company",
-          "value": "OKCredit"
+          "type": "profile",
+          "value": {
+            "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
+            "title": "UX Designer",
+            "company": "OKCredit"
+          }
         }
       ]
     },
@@ -23,42 +19,42 @@
         {
            "type": "detail",
            "value": {
-              "key": "Job Location",
+              "title": "Job Location",
               "value": "Hyderabad"
            }
         },
         {
            "type": "detail",
            "value": {
-              "key": "Company Size",
+              "title": "Company Size",
               "value": "Hyderabad"
            }
         },
         {
            "type": "detail",
            "value": {
-              "key": "Experience Required",
+              "title": "Experience Required",
               "value": "4-8 years"
            }
         },
         {
            "type": "detail",
            "value": {
-              "key": "Skills Required",
+              "title": "Skills Required",
               "value": "Hyderabad"
            }
         },
         {
            "type": "detail",
            "value": {
-              "key": "Maximum Compensation",
+              "title": "Maximum Compensation",
               "value": "Hyderabad"
            }
         },
         {
            "type": "detail",
            "value": {
-              "key": "Working Days",
+              "title": "Working Days",
               "value": 5
            }
         }
