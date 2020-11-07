@@ -179,7 +179,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Work Experience"
+          "value": {
+            "heading": "Work Experience",
+            "subheading": ""
+          }
         },
         {
           "type": "qualification",
@@ -220,7 +223,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Education & Certifications"
+          "value": {
+            "heading": "Education & Certifications",
+            "subheading": ""
+          }
         },
         {
           "type": "qualification",
@@ -245,7 +251,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Skills"
+          "value": {
+            "heading": "Skills",
+            "subheading": ""
+          }
         },
         {
           "type": "chip_array",
@@ -262,7 +271,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Preferences"
+          "value": {
+            "heading": "Preferences",
+            "subheading": ""
+          }
         },
         {
           "type": "heading",
