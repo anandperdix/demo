@@ -8,7 +8,7 @@
           "value": {
             "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
             "title": "UX Designer",
-            "company": "OKCredit"
+            "name": "OKCredit"
           }
         }
       ]
@@ -65,7 +65,10 @@
       "data": [
         {
           "type": "header",
-          "value": "About Ola"
+          "value": {
+            "heading": "About Ola",
+            "subheading": ""
+          }
         },
         {
            "type": "chip_array",
@@ -90,7 +93,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Office Location"
+          "value": {
+            "heading": "Office Location",
+            "subheading": ""
+          }
         },
         {
           "type": "company",
@@ -107,7 +113,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Roles & Responsibilites"
+          "value": {
+            "heading": "Roles & Responsibilites",
+            "subheading": ""
+          }
         },
         {
           "type": "content",
@@ -120,7 +129,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Ideal Candidate"
+          "value": {
+            "heading": "Ideal Candidate",
+            "subheading": ""
+          }
         },
         {
           "type": "content",
@@ -133,7 +145,10 @@
       "data": [
         {
           "type": "header",
-          "value": "Perks, Benefits & Work Culture"
+          "value": {
+            "heading": "Perks, Benefits & Work Culture",
+            "subheading": ""
+          }
         },
         {
           "type": "content",
