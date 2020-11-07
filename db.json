@@ -218,6 +218,7 @@
           "type": "qualification",
           "value": {
             "name": "Flipkart",
+            "logo": "https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png",
             "title": "UI/UX Designer - Permanent",
             "description": "Part of the team which was responsible for the launch of new product lines.",
             "from_date": {
@@ -234,6 +235,7 @@
           "type": "qualification",
           "value": {
             "name": "Flipkart",
+            "logo": "https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png",
             "title": "UI/UX Designer - Permanent",
             "description": "Part of the team which was responsible for the launch of new product lines.",
             "from_date": {
@@ -262,6 +264,7 @@
           "type": "qualification",
           "value": {
             "name": "BITS Pilani",
+            "logo": "https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png",
             "title": "Bachelor - Computer Science",
             "description": "Completed a thesis project which identified the mood from a given set of tweets.",
             "from_date": {
