@@ -1,325 +1,325 @@
 {
-  "sections": [
-    {
-      "id": "header",
-      "data": [
-        {
-          "type": "profile",
-          "value": {
-            "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
-            "title": "UX Designer",
-            "company": "OKCredit"
-          }
-        }
-      ]
-    },
-    {
-      "id": "details",
-      "data": [
-        {
-           "type": "detail",
-           "value": {
-              "title": "Job Location",
-              "value": "Hyderabad"
-           }
-        },
-        {
-           "type": "detail",
-           "value": {
-              "title": "Company Size",
-              "value": "Hyderabad"
-           }
-        },
-        {
-           "type": "detail",
-           "value": {
-              "title": "Experience Required",
-              "value": "4-8 years"
-           }
-        },
-        {
-           "type": "detail",
-           "value": {
-              "title": "Skills Required",
-              "value": "Hyderabad"
-           }
-        },
-        {
-           "type": "detail",
-           "value": {
-              "title": "Maximum Compensation",
-              "value": "Hyderabad"
-           }
-        },
-        {
-           "type": "detail",
-           "value": {
-              "title": "Working Days",
-              "value": 5
-           }
-        }
-      ]
-    },
-    {
-      "id": "about",
-      "data": [
-        {
-          "type": "heading",
-          "value": "About Ola"
-        },
-        {
-           "type": "chip_array",
-           "value": [
-              "Consumer Internet",
-              "Technology",
-              "Travel & Tourism"
-           ]
-        },
-        {
-           "type": "content",
-           "value": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient"
-        },
-        {
-           "type": "link",
-           "value": "https://www.olacabs.com/"
-        }
-     ]
-    },
-    {
-      "id": "location",
-      "data": [
-        {
-          "type": "heading",
-          "value": "Office Location"
-        },
-        {
-          "type": "company",
-          "value": {
-            "location_image": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg",
-            "location": "Murugesh Pallya, Bengaluru ",
-            "google_maps": "https://www.google.co.in/maps"
-          }
-        }
-     ]
-    },
-    {
-      "id": "responsibilities",
-      "data": [
-        {
-          "type": "heading",
-          "value": "Roles & Responsibilites"
-        },
-        {
-          "type": "content",
-          "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
-        }
-      ]
-    },
-    {
-      "id": "candidate_qualities",
-      "data": [
-        {
-          "type": "heading",
-          "value": "Ideal Candidate"
-        },
-        {
-          "type": "content",
-          "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
-        }
-      ]
-    },
-    {
-      "id": "benefits",
-      "data": [
-        {
-          "type": "heading",
-          "value": "Perks, Benefits & Work Culture"
-        },
-        {
-          "type": "content",
-          "value": "We believe that innovation is a part of our DNA and every employee embodies Ola's larger goals and values. We encourage all our employees to practice the utmost creative freedom in everything that they do, allowing for ground-breaking ideas, innovation and steady advancement."
-        }
-      ]
-    }
-  ],
-  {
-  "profile": [
-    {
-      "id": "header",
-      "data": [
-        {
-          "type": "profile",
-          "value": {
-            "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
-            "title": "UI/UX Designer",
-            "name": "Aryaman Mandhana"
-          }
-        }
-      ]
-    },{
-      "id": "profile_completion",
-      "data": [
-        {
-          "type": "profile_completion",
-          "value": "60"
-        }
-      ]
-    },
-    {
-      "id": "resume",
-      "data": [
-        {
-          "type": "download",
-          "value": ""
-        }
-      ]
-    },
-    {
-      "id": "experience",
-      "data": [
-        {
-          "type": "header",
-          "value": "Work Experience"
-        },
-        {
-          "type": "qualification",
-          "value": {
-            "name": "Flipkart",
-            "title": "UI/UX Designer - Permanent",
-            "description": "Part of the team which was responsible for the launch of new product lines.",
-            "from_date": {
-              "month": "01",
-              "year": "2016"
-            },
-            "to_date": {
-              "month": "05",
-              "year": "2020"
+   "sections": [
+      {
+         "id": "header",
+         "data": [
+            {
+               "type": "profile",
+               "value": {
+                  "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
+                  "title": "UX Designer",
+                  "company": "OKCredit"
+               }
             }
-          }
-        },
-        {
-          "type": "qualification",
-          "value": {
-            "name": "Flipkart",
-            "title": "UI/UX Designer - Permanent",
-            "description": "Part of the team which was responsible for the launch of new product lines.",
-            "from_date": {
-              "month": "01",
-              "year": "2016"
+         ]
+      },
+      {
+         "id": "details",
+         "data": [
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Job Location",
+                  "value": "Hyderabad"
+               }
             },
-            "to_date": {
-              "month": "05",
-              "year": "2020"
-            }
-          }
-        }
-     ]
-    },
-    {
-      "id": "education",
-      "data": [
-        {
-          "type": "header",
-          "value": "Education & Certifications"
-        },
-        {
-          "type": "qualification",
-          "value": {
-            "name": "BITS Pilani",
-            "title": "Bachelor - Computer Science",
-            "description": "Completed a thesis project which identified the mood from a given set of tweets.",
-            "from_date": {
-              "month": "00",
-              "year": "2016"
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Company Size",
+                  "value": "Hyderabad"
+               }
             },
-            "to_date": {
-              "month": "00",
-              "year": "2020"
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Experience Required",
+                  "value": "4-8 years"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Skills Required",
+                  "value": "Hyderabad"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Maximum Compensation",
+                  "value": "Hyderabad"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Working Days",
+                  "value": 5
+               }
             }
-          }
-        }
-     ]
-    },
-    {
-      "id": "skills",
-      "data": [
-        {
-          "type": "header",
-          "value": "Skills"
-        },
-        {
-          "type": "chip_array",
-          "value": [
-            "Visual Design",
-            "Prototyping",
-            "Interaction Design"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "preferences",
-      "data": [
-        {
-          "type": "header",
-          "value": "Preferences"
-        },
-        {
-          "type": "heading",
-          "value": "Preferred locations"
-        },
-        {
-          "type": "chip_array",
-          "value": [
-            "Bengaluru",
-            "Pune",
-            "Hyderabad"
-          ]
-        },
-        {
-          "type": "heading",
-          "value": "Are you okay with 6 day working jobs?"
-        },
-        {
-          "type": "chip_array",
-          "value": [
-            "Yes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "confidential",
-      "data": [
-        {
-          "type": "header",
-          "value": {
-            "heading": "Confidential",
-            "subheading": "Visible only to recruiters"
-          }
-        },
-        {
-          "type": "detail",
-          "value": {
-            "title": "Current/Last Compensation",
-            "value": "Rs. 12.30 lakhs per annum"
-          }
-        },
-        {
-          "type": "detail",
-          "value": {
-            "title": "Expected Compensation",
-            "value": "Rs. 16.30 lakhs per annum"
-          }
-        },
-        {
-          "type": "detail",
-          "value": {
-            "title": "Notice/Joining Period",
-            "value": "30 Days"
-          }
-        }
-      ]
-    }
-  ]
+         ]
+      },
+      {
+         "id": "about",
+         "data": [
+            {
+               "type": "header",
+               "value": "About Ola"
+            },
+            {
+               "type": "chip_array",
+               "value": [
+                  "Consumer Internet",
+                  "Technology",
+                  "Travel & Tourism"
+               ]
+            },
+            {
+               "type": "content",
+               "value": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient"
+            },
+            {
+               "type": "link",
+               "value": "https://www.olacabs.com/"
+            }
+         ]
+      },
+      {
+         "id": "location",
+         "data": [
+            {
+               "type": "header",
+               "value": "Office Location"
+            },
+            {
+               "type": "company",
+               "value": {
+                  "location_image": "https://www.thestatesman.com/wp-content/uploads/2020/04/googl_ED.jpg",
+                  "location": "Murugesh Pallya, Bengaluru ",
+                  "google_maps": "https://www.google.co.in/maps"
+               }
+            }
+         ]
+      },
+      {
+         "id": "responsibilities",
+         "data": [
+            {
+               "type": "header",
+               "value": "Roles & Responsibilites"
+            },
+            {
+               "type": "content",
+               "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
+            }
+         ]
+      },
+      {
+         "id": "candidate_qualities",
+         "data": [
+            {
+               "type": "header",
+               "value": "Ideal Candidate"
+            },
+            {
+               "type": "content",
+               "value": "As the Experience Design team of Ola, we strive to craft memorable experiences for our users across all touchpoints, digital or physical. We believe that experiences are multi-sensorial and evolve over time as users interact with Ola across all our services. We work across multiple platforms and businesses: Riders, Drivers, Food, Money, Electric and Fleet. We are able to achieve this by integrating multiple functions of design: user experience research, product design, brand design, marketing design, and content strategy into one Experience Design team."
+            }
+         ]
+      },
+      {
+         "id": "benefits",
+         "data": [
+            {
+               "type": "header",
+               "value": "Perks, Benefits & Work Culture"
+            },
+            {
+               "type": "content",
+               "value": "We believe that innovation is a part of our DNA and every employee embodies Ola's larger goals and values. We encourage all our employees to practice the utmost creative freedom in everything that they do, allowing for ground-breaking ideas, innovation and steady advancement."
+            }
+         ]
+      }
+   ],
+   "profile": [
+      {
+         "id": "header",
+         "data": [
+            {
+               "type": "profile",
+               "value": {
+                  "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
+                  "title": "UI/UX Designer",
+                  "name": "Aryaman Mandhana"
+               }
+            }
+         ]
+      },
+      {
+         "id": "profile_completion",
+         "data": [
+            {
+               "type": "profile_completion",
+               "value": "60"
+            }
+         ]
+      },
+      {
+         "id": "resume",
+         "data": [
+            {
+               "type": "download",
+               "value": ""
+            }
+         ]
+      },
+      {
+         "id": "experience",
+         "data": [
+            {
+               "type": "header",
+               "value": "Work Experience"
+            },
+            {
+               "type": "qualification",
+               "value": {
+                  "name": "Flipkart",
+                  "title": "UI/UX Designer - Permanent",
+                  "description": "Part of the team which was responsible for the launch of new product lines.",
+                  "from_date": {
+                     "month": "01",
+                     "year": "2016"
+                  },
+                  "to_date": {
+                     "month": "05",
+                     "year": "2020"
+                  }
+               }
+            },
+            {
+               "type": "qualification",
+               "value": {
+                  "name": "Flipkart",
+                  "title": "UI/UX Designer - Permanent",
+                  "description": "Part of the team which was responsible for the launch of new product lines.",
+                  "from_date": {
+                     "month": "01",
+                     "year": "2016"
+                  },
+                  "to_date": {
+                     "month": "05",
+                     "year": "2020"
+                  }
+               }
+            }
+         ]
+      },
+      {
+         "id": "education",
+         "data": [
+            {
+               "type": "header",
+               "value": "Education & Certifications"
+            },
+            {
+               "type": "qualification",
+               "value": {
+                  "name": "BITS Pilani",
+                  "title": "Bachelor - Computer Science",
+                  "description": "Completed a thesis project which identified the mood from a given set of tweets.",
+                  "from_date": {
+                     "month": "00",
+                     "year": "2016"
+                  },
+                  "to_date": {
+                     "month": "00",
+                     "year": "2020"
+                  }
+               }
+            }
+         ]
+      },
+      {
+         "id": "skills",
+         "data": [
+            {
+               "type": "header",
+               "value": "Skills"
+            },
+            {
+               "type": "chip_array",
+               "value": [
+                  "Visual Design",
+                  "Prototyping",
+                  "Interaction Design"
+               ]
+            }
+         ]
+      },
+      {
+         "id": "preferences",
+         "data": [
+            {
+               "type": "header",
+               "value": "Preferences"
+            },
+            {
+               "type": "heading",
+               "value": "Preferred locations"
+            },
+            {
+               "type": "chip_array",
+               "value": [
+                  "Bengaluru",
+                  "Pune",
+                  "Hyderabad"
+               ]
+            },
+            {
+               "type": "heading",
+               "value": "Are you okay with 6 day working jobs?"
+            },
+            {
+               "type": "chip_array",
+               "value": [
+                  "Yes"
+               ]
+            }
+         ]
+      },
+      {
+         "id": "confidential",
+         "data": [
+            {
+               "type": "header",
+               "value": {
+                  "heading": "Confidential",
+                  "subheading": "Visible only to recruiters"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Current/Last Compensation",
+                  "value": "Rs. 12.30 lakhs per annum"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Expected Compensation",
+                  "value": "Rs. 16.30 lakhs per annum"
+               }
+            },
+            {
+               "type": "detail",
+               "value": {
+                  "title": "Notice/Joining Period",
+                  "value": "30 Days"
+               }
+            }
+         ]
+      }
+   ]
 }
