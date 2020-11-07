@@ -184,8 +184,23 @@
       "id": "resume",
       "data": [
         {
-          "type": "download",
-          "value": ""
+          "type": "header",
+          "value": {
+            "heading": "CV / LinkedIn",
+            "subheading": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "portfolio",
+      "data": [
+        {
+          "type": "header",
+          "value": {
+            "heading": "Portfolio Link & Attachment",
+            "subheading": ""
+          }
         }
       ]
     },
