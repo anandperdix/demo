@@ -7,8 +7,8 @@
           "type": "profile",
           "value": {
             "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
-            "title": "UX Designer",
-            "name": "OKCredit"
+            "heading": "UX Designer",
+            "subheading": "OKCredit"
           }
         }
       ]
@@ -165,8 +165,8 @@
           "type": "profile",
           "value": {
             "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/bd1c284f46c943e75cd54c72700a0eae4df84239.png?1556574156",
-            "title": "UI/UX Designer",
-            "name": "Aryaman Mandhana"
+            "heading": "Aryaman Mandhana",
+            "subheading": "UI/UX Designer"
           }
         }
       ]
