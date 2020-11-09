@@ -168,6 +168,15 @@
             "heading": "Aryaman Mandhana",
             "subheading": "UI/UX Designer"
           }
+        },
+        {
+          "type": "info_array",
+          "value": {
+            "location": "Bengaluru",
+            "experience": "5 years",
+            "mobile": "8794562310",
+            "email": "aryaman@perdixglobal.com"
+          }
         }
       ]
     },
@@ -191,12 +200,12 @@
           }
         },
         {
-          "type": "link",
-          "value": "www.google.com"
-        },
-        {
           "type": "attachment",
           "value": "http://www.africau.edu/images/default/sample.pdf"
+        },
+        {
+          "type": "link",
+          "value": "www.google.com"
         }
       ]
     },
@@ -211,12 +220,12 @@
           }
         },
         {
-          "type": "link",
-          "value": "www.google.com"
-        },
-        {
           "type": "attachment",
           "value": "http://www.africau.edu/images/default/sample.pdf"
+        },
+        {
+          "type": "link",
+          "value": "www.google.com"
         }
       ]
     },
