@@ -189,6 +189,14 @@
             "heading": "CV / LinkedIn",
             "subheading": ""
           }
+        },
+        {
+          "type": "link",
+          "value": "www.google.com"
+        },
+        {
+          "type": "attachment",
+          "value": "http://www.africau.edu/images/default/sample.pdf"
         }
       ]
     },
@@ -201,6 +209,14 @@
             "heading": "Portfolio Link & Attachment",
             "subheading": ""
           }
+        },
+        {
+          "type": "link",
+          "value": "www.google.com"
+        },
+        {
+          "type": "attachment",
+          "value": "http://www.africau.edu/images/default/sample.pdf"
         }
       ]
     },
