@@ -55,7 +55,7 @@
            "type": "detail",
            "value": {
               "title": "Working Days",
-              "value": 5
+              "value": "5"
            }
         }
       ]
@@ -83,7 +83,7 @@
            "value": "Founded in 2011 by Bhavish Aggarwal and Ankit Bhati, Ola is one of the world’s largest ride-sharing companies. Ola integrates city transportation for customers and driver-partners onto a mobile technology platform ensuring convenient"
         },
         {
-           "type": "link",
+           "type": "redirect_link",
            "value": "https://www.olacabs.com/"
         }
      ]
